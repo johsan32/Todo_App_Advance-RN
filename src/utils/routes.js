@@ -1,0 +1,8 @@
+export const HOME="Anasayfa"
+export const TASKLIST="TaskList"
+export const ADDTASK="AddTask"
+export const SPLASH="Splash"
+export const COMPLETE="Complete"
+export const OPEN="Open"
+export const PROGRESS="Progress"
+export const DELETE="Delete"
